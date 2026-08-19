@@ -166,3 +166,9 @@ cython_debug/
 
 notebooks/verification/CNBS_forecast_archived.csv
 notebooks/verification/CNBS_forecast_archived.csv
+data/input/models/RF_trained_model_anom.joblib
+data/input/models/GP_trained_model_anom.joblib
+data/input/models/NN_trained_model_anom.joblib
+data/input/models/XGB_trained_model_anom.joblib
+data/input/scalers/x_scaler_anom.joblib
+data/input/scalers/y_scaler_anom.joblib
